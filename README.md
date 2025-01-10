@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @RahulThakur
-- 👀 I’m interested in Data Science and
-- 🌱 I’m currently learning Data SCience
